@@ -38,6 +38,7 @@ function suma(a,b) {
 }
 
 let fecha = new Date();
+console.log(fecha);
 
 console.log(persona.edad);
 console.log(numeros[0]);

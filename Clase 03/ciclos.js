@@ -11,7 +11,7 @@ while(contador < 10){
 let numero = 0;
 do{
     console.log("Ejecuto mi programa al menos una vez");
-    contador++
+    numero++
 }while(numero < 1)
 
 
